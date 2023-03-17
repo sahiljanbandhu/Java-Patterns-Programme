@@ -8,7 +8,6 @@ public class P23 {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the row");
 		int n = sc.nextInt();
-
 		int sp = 0, st = n;
 
 		for (int i = 1; i <= n; i++) {
